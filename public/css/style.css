@@ -622,7 +622,7 @@ section { padding: 80px 0; }
     .hero-pills { gap: 8px; margin-top: 16px; }
     .hero-pill { font-size: 12px; padding: 4px 12px; }
     .hero-badge { font-size: 11px; margin-bottom: 10px; }
-    .carousel-control-prev, .carousel-control-next { display: none; }
+    .carousel-control-prev, .carousel-control-next { display: none !important; }
     .section-title { font-size: 26px; }
     .stats-strip .stat-divider { display: none; }
     .d-flex.gap-3 { gap: 10px !important; }
