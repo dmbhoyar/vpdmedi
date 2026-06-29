@@ -614,9 +614,16 @@ section { padding: 80px 0; }
 
 /* ---- Responsive ---- */
 @media (max-width: 768px) {
-    .hero-content h1 { font-size: 28px; }
-    .hero-slide, .hero-slider .carousel-item { min-height: 320px; }
+    .hero-content { padding: 40px 0 30px; }
+    .hero-content h1 { font-size: 24px; margin-bottom: 12px; }
+    .hero-content p { font-size: 14px; margin-bottom: 20px; }
+    .hero-slide, .hero-slider .carousel-item { min-height: auto; }
     .hero-icon-box { display: none; }
+    .hero-pills { gap: 8px; margin-top: 16px; }
+    .hero-pill { font-size: 12px; padding: 4px 12px; }
+    .hero-badge { font-size: 11px; margin-bottom: 10px; }
+    .carousel-control-prev, .carousel-control-next { display: none; }
     .section-title { font-size: 26px; }
     .stats-strip .stat-divider { display: none; }
+    .d-flex.gap-3 { gap: 10px !important; }
 }
