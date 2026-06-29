@@ -451,8 +451,8 @@
             </a>
         </div>
         <p class="mt-4 mb-0" style="font-size:14px;color:rgba(255,255,255,.6);">
-            <i class="bi bi-telephone me-1"></i> +91 96013 81302 &nbsp;|&nbsp;
-            <i class="bi bi-telephone me-1"></i> +91 97262 81302
+            <i class="bi bi-telephone me-1"></i> +91 90222 81139 &nbsp;|&nbsp;
+            <i class="bi bi-telephone me-1"></i> +91 90222 81139
         </p>
     </div>
 </div>

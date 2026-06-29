@@ -145,10 +145,10 @@
                     <h4 class="fw-700 mb-2">Pune Head Office</h4>
                     <p class="text-muted mb-4">Office No. 12, Ganesh Plaza, FC Road,<br>Shivaji Nagar, Pune, Maharashtra – 411004, India</p>
                     <div class="d-flex gap-3 justify-content-center flex-wrap">
-                        <a href="tel:+919601381302" class="btn-primary-custom">
-                            <i class="bi bi-telephone me-2"></i>+91 96013 81302
+                        <a href="tel:+919022281139" class="btn-primary-custom">
+                            <i class="bi bi-telephone me-2"></i>+91 90222 81139
                         </a>
-                        <a href="https://wa.me/919601381302" target="_blank" class="btn-whatsapp">
+                        <a href="https://wa.me/919022281139" target="_blank" class="btn-whatsapp">
                             <i class="bi bi-whatsapp"></i> WhatsApp
                         </a>
                     </div>

@@ -123,11 +123,11 @@
 
                 <div class="p-4" style="border:1.5px solid var(--border);border-radius:14px;">
                     <h6 class="fw-700 mb-3">Need to Talk to Us?</h6>
-                    <a href="tel:+919601381302" class="d-flex align-items-center gap-2 mb-2 text-decoration-none" style="color:var(--primary);">
-                        <i class="bi bi-telephone-fill"></i> +91 96013 81302
+                    <a href="tel:+919022281139" class="d-flex align-items-center gap-2 mb-2 text-decoration-none" style="color:var(--primary);">
+                        <i class="bi bi-telephone-fill"></i> +91 90222 81139
                     </a>
-                    <a href="tel:+919726281302" class="d-flex align-items-center gap-2 text-decoration-none" style="color:var(--primary);">
-                        <i class="bi bi-telephone-fill"></i> +91 97262 81302
+                    <a href="tel:+919022281139" class="d-flex align-items-center gap-2 text-decoration-none" style="color:var(--primary);">
+                        <i class="bi bi-telephone-fill"></i> +91 90222 81139
                     </a>
                     <p class="text-muted small mt-2 mb-0">Mon–Sat: 9 AM – 7 PM</p>
                 </div>

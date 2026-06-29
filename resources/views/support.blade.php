@@ -29,9 +29,9 @@
         </div>
         <div class="row g-4">
             @foreach([
-                ['bi-whatsapp','#25D366','WhatsApp Support','Fastest way to get help. Chat with our support team directly on WhatsApp for instant assistance.','https://wa.me/919601381302?text=Hello!%20I%20need%20customer%20support.','Chat Now','#25D366'],
-                ['bi-telephone-fill','var(--primary)','Call Us','Speak directly with our support executives. Available Monday to Saturday, 9 AM – 7 PM.','tel:+919601381302','Call Now','var(--primary)'],
-                ['bi-box-seam','var(--accent)','Track Your Order','WhatsApp your order number to track real-time status and expected delivery time.','https://wa.me/919601381302?text=Hello!%20I%20want%20to%20track%20my%20order.%20Order%20No:%20','Track Order','var(--accent)'],
+                ['bi-whatsapp','#25D366','WhatsApp Support','Fastest way to get help. Chat with our support team directly on WhatsApp for instant assistance.','https://wa.me/919022281139?text=Hello!%20I%20need%20customer%20support.','Chat Now','#25D366'],
+                ['bi-telephone-fill','var(--primary)','Call Us','Speak directly with our support executives. Available Monday to Saturday, 9 AM – 7 PM.','tel:+919022281139','Call Now','var(--primary)'],
+                ['bi-box-seam','var(--accent)','Track Your Order','WhatsApp your order number to track real-time status and expected delivery time.','https://wa.me/919022281139?text=Hello!%20I%20want%20to%20track%20my%20order.%20Order%20No:%20','Track Order','var(--accent)'],
             ] as [$icon,$clr,$title,$desc,$link,$btn,$btnClr])
             <div class="col-md-4">
                 <div class="service-card text-center" style="border-top: 4px solid {{ $clr }};">
@@ -61,7 +61,7 @@
                     <div class="info-icon"><i class="bi bi-whatsapp"></i></div>
                     <div>
                         <h6>WhatsApp (Primary)</h6>
-                        <p><a href="https://wa.me/919601381302" target="_blank" style="color:var(--primary);">+91 96013 81302</a></p>
+                        <p><a href="https://wa.me/919022281139" target="_blank" style="color:var(--primary);">+91 90222 81139</a></p>
                     </div>
                 </div>
                 <div class="info-box">
@@ -69,8 +69,8 @@
                     <div>
                         <h6>Phone Numbers</h6>
                         <p>
-                            <a href="tel:+919601381302" style="color:var(--primary);display:block;">+91 96013 81302</a>
-                            <a href="tel:+919726281302" style="color:var(--primary);display:block;">+91 97262 81302</a>
+                            <a href="tel:+919022281139" style="color:var(--primary);display:block;">+91 90222 81139</a>
+                            <a href="tel:+919022281139" style="color:var(--primary);display:block;">+91 90222 81139</a>
                         </p>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                 <h3 class="fw-700 mb-4">Frequently Asked Questions</h3>
 
                 @foreach([
-                    ['How do I place an order?','Simply WhatsApp us on +91 96013 81302 with the medicine name, quantity, and your delivery address. You can also use our website Order Form.'],
+                    ['How do I place an order?','Simply WhatsApp us on +91 90222 81139 with the medicine name, quantity, and your delivery address. You can also use our website Order Form.'],
                     ['What is the minimum order quantity?','We have no minimum order quantity. You can order as little as one strip.'],
                     ['Do you offer same-day delivery?','Yes! Same-day delivery is available in select areas of Pune. For other locations, we dispatch same-day via courier.'],
                     ['How can I track my order?','Send your order number on WhatsApp and we will share real-time status immediately.'],
@@ -119,7 +119,7 @@
     <div class="container">
         <h2>Need Immediate Help?</h2>
         <p>Our WhatsApp support team is available right now to assist you.</p>
-        <a href="https://wa.me/919601381302?text=Hello!%20I%20need%20help%20with%20my%20order."
+        <a href="https://wa.me/919022281139?text=Hello!%20I%20need%20help%20with%20my%20order."
            target="_blank" class="btn-whatsapp" style="font-size:18px;padding:16px 40px;">
             <i class="bi bi-whatsapp fs-4"></i> Chat with Support on WhatsApp
         </a>

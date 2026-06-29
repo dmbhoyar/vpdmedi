@@ -34,7 +34,7 @@
                     </div>
                     <div>
                         <h6>WhatsApp (Preferred)</h6>
-                        <p><a href="https://wa.me/919601381302" target="_blank" style="color:#25D366;font-weight:600;">+91 96013 81302</a></p>
+                        <p><a href="https://wa.me/919022281139" target="_blank" style="color:#25D366;font-weight:600;">+91 90222 81139</a></p>
                         <p style="font-size:12px;color:var(--text-muted);">Fastest response – chat, order, support</p>
                     </div>
                 </div>
@@ -43,8 +43,8 @@
                     <div class="info-icon"><i class="bi bi-telephone-fill"></i></div>
                     <div>
                         <h6>Phone Numbers</h6>
-                        <a href="tel:+919601381302" style="color:var(--primary);font-weight:600;display:block;">+91 96013 81302</a>
-                        <a href="tel:+919726281302" style="color:var(--primary);font-weight:600;display:block;">+91 97262 81302</a>
+                        <a href="tel:+919022281139" style="color:var(--primary);font-weight:600;display:block;">+91 90222 81139</a>
+                        <a href="tel:+919022281139" style="color:var(--primary);font-weight:600;display:block;">+91 90222 81139</a>
                     </div>
                 </div>
 
@@ -68,7 +68,7 @@
                 <div class="mt-4">
                     <h6 class="fw-700 mb-3">Follow Us</h6>
                     <div class="d-flex gap-2">
-                        <a href="https://wa.me/919601381302" target="_blank"
+                        <a href="https://wa.me/919022281139" target="_blank"
                            style="width:40px;height:40px;border-radius:50%;background:#25D366;display:flex;align-items:center;justify-content:center;color:#fff;font-size:18px;">
                             <i class="bi bi-whatsapp"></i>
                         </a>

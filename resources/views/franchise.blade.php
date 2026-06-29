@@ -35,7 +35,7 @@
                     Whether you are a pharmacist, a healthcare professional, or a business person looking to enter the
                     pharmaceutical distribution sector — our franchise model offers a low-risk, high-reward opportunity.
                 </p>
-                <a href="https://wa.me/919601381302?text=Hello!%20I%20am%20interested%20in%20the%20MedCare%20Distributors%20Franchise%20Opportunity.%20Please%20share%20details."
+                <a href="https://wa.me/919022281139?text=Hello!%20I%20am%20interested%20in%20the%20MedCare%20Distributors%20Franchise%20Opportunity.%20Please%20share%20details."
                    target="_blank" class="btn-whatsapp mt-2">
                     <i class="bi bi-whatsapp"></i> Enquire via WhatsApp
                 </a>
@@ -127,7 +127,7 @@
     <div class="container">
         <h2>Interested in Our Franchise?</h2>
         <p>WhatsApp us now and our franchise team will guide you through the entire process.</p>
-        <a href="https://wa.me/919601381302?text=Hello!%20I%20want%20to%20know%20more%20about%20MedCare%20Franchise%20Opportunity.%20Please%20guide%20me."
+        <a href="https://wa.me/919022281139?text=Hello!%20I%20want%20to%20know%20more%20about%20MedCare%20Franchise%20Opportunity.%20Please%20guide%20me."
            target="_blank" class="btn-whatsapp" style="font-size:18px;padding:16px 40px;">
             <i class="bi bi-whatsapp fs-4"></i> Chat with Franchise Team
         </a>

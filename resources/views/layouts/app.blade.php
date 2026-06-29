@@ -22,13 +22,13 @@
     <div class="container d-flex justify-content-between align-items-center">
         <div class="d-flex gap-4">
             <span><i class="bi bi-telephone-fill me-1"></i>
-                <a href="tel:+919601381302">+91 96013 81302</a> &nbsp;|&nbsp;
-                <a href="tel:+919726281302">+91 97262 81302</a>
+                <a href="tel:+919022281139">+91 90222 81139</a> &nbsp;|&nbsp;
+                <a href="tel:+919022281139">+91 90222 81139</a>
             </span>
             <span><i class="bi bi-geo-alt-fill me-1"></i> Pune, Maharashtra</span>
         </div>
         <div class="d-flex gap-3">
-            <a href="https://wa.me/919601381302" target="_blank"><i class="bi bi-whatsapp me-1"></i>WhatsApp Us</a>
+            <a href="https://wa.me/919022281139" target="_blank"><i class="bi bi-whatsapp me-1"></i>WhatsApp Us</a>
             <a href="{{ route('order') }}" class="text-warning fw-semibold"><i class="bi bi-bag-check me-1"></i>Quick Order</a>
 
         </div>
@@ -102,7 +102,7 @@
                 </div>
                 <p>A distinguished pharmaceutical distributor and wholesaler providing high-quality medicines at the most competitive rates across India since 2019.</p>
                 <div class="social-links">
-                    <a href="https://wa.me/919601381302" target="_blank" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+                    <a href="https://wa.me/919022281139" target="_blank" title="WhatsApp"><i class="bi bi-whatsapp"></i></a>
                     <a href="#" title="Facebook"><i class="bi bi-facebook"></i></a>
                     <a href="#" title="Instagram"><i class="bi bi-instagram"></i></a>
                     <a href="#" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
@@ -145,8 +145,8 @@
                         <i class="bi bi-telephone-fill"></i>
                     </div>
                     <div>
-                        <a href="tel:+919601381302" style="display:block;">+91 96013 81302</a>
-                        <a href="tel:+919726281302" style="display:block;">+91 97262 81302</a>
+                        <a href="tel:+919022281139" style="display:block;">+91 90222 81139</a>
+                        <a href="tel:+919022281139" style="display:block;">+91 90222 81139</a>
                     </div>
                 </div>
                 <div class="info-box">
@@ -154,7 +154,7 @@
                         <i class="bi bi-whatsapp"></i>
                     </div>
                     <div>
-                        <a href="https://wa.me/919601381302" target="_blank">Chat on WhatsApp</a>
+                        <a href="https://wa.me/919022281139" target="_blank">Chat on WhatsApp</a>
                         <p style="color:#a8b9d8;margin:0;font-size:12px;">Orders, Enquiries & Support</p>
                     </div>
                 </div>
@@ -165,13 +165,13 @@
     <div class="footer-bottom">
         <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
             <span>&copy; {{ date('Y') }} MedCare Distributors India Pvt Ltd. All rights reserved.</span>
-            <span>Designed for Demo | WhatsApp: <a href="https://wa.me/919601381302" style="color:var(--primary);">+91 96013 81302</a></span>
+            <span>Designed for Demo | WhatsApp: <a href="https://wa.me/919022281139" style="color:var(--primary);">+91 90222 81139</a></span>
         </div>
     </div>
 </footer>
 
 <!-- ===== WhatsApp Float Button ===== -->
-<a href="https://wa.me/919601381302?text=Hello%20MedCare%20Distributors!%20I%20would%20like%20to%20enquire%20about%20your%20products."
+<a href="https://wa.me/919022281139?text=Hello%20MedCare%20Distributors!%20I%20would%20like%20to%20enquire%20about%20your%20products."
    target="_blank"
    style="position:fixed;bottom:28px;right:28px;z-index:9999;width:56px;height:56px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 24px rgba(37,211,102,.4);transition:transform .2s;"
    onmouseover="this.style.transform='scale(1.12)'"

@@ -105,7 +105,7 @@
                         <div style="font-size:28px;color:var(--primary);"><i class="bi {{ $icon }}"></i></div>
                     </div>
                     <p class="text-muted small mb-3">{{ $req }}</p>
-                    <a href="https://wa.me/919601381302?text=Hello!%20I%20am%20interested%20in%20the%20{{ urlencode($title) }}%20position%20at%20MedCare%20Distributors.%20Please%20guide%20me."
+                    <a href="https://wa.me/919022281139?text=Hello!%20I%20am%20interested%20in%20the%20{{ urlencode($title) }}%20position%20at%20MedCare%20Distributors.%20Please%20guide%20me."
                        target="_blank" class="btn-whatsapp-sm">
                         <i class="bi bi-whatsapp"></i> Apply on WhatsApp
                     </a>
@@ -121,7 +121,7 @@
     <div class="container">
         <h2>Don't See Your Role?</h2>
         <p>We are always looking for talented people. Send your resume on WhatsApp with the position you're interested in.</p>
-        <a href="https://wa.me/919601381302?text=Hello!%20I%20would%20like%20to%20apply%20for%20a%20position%20at%20MedCare%20Distributors.%20Please%20guide%20me."
+        <a href="https://wa.me/919022281139?text=Hello!%20I%20would%20like%20to%20apply%20for%20a%20position%20at%20MedCare%20Distributors.%20Please%20guide%20me."
            target="_blank" class="btn-whatsapp" style="font-size:18px;padding:16px 40px;">
             <i class="bi bi-whatsapp fs-4"></i> Send Resume on WhatsApp
         </a>
